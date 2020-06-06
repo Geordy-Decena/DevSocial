@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://geordy:geordy@devsocial-iffgb.mongodb.net/test?retryWrites=true&w=majority"
+}
