@@ -1,7 +1,6 @@
 import {
     REGISTER_SUCCESS,
     REGISTER_FAIL,
-    REGISTR_FAIL,
 } from '../actions/types';
 
 const initialState = {
