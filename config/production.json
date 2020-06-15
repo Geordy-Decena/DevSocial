@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://geordy:geordy@devsocial-iffgb.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "myscecrettoken",
+    "githubClientId": "f09b5ce1a948c18dd153",
+    "githubSecret": "9ddb52d39ae2f677e6301e971ef9da3bfb0f2e35"
+}
